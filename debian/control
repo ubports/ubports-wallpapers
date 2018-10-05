@@ -1,0 +1,19 @@
+Source: ubports-wallpapers
+Priority: optional
+Maintainer: Dalton Durst <dalton@ubports.com>
+Build-Depends: debhelper (>= 9),
+Standards-Version: 3.9.6
+Homepage: https://github.com/ubports/ubports-wallpapers
+
+Package: ubports-wallpapers
+Architecture: all
+Breaks: ubuntu-wallpapers
+Replaces: ubuntu-wallpapers
+Section: metapackages
+Description: Ubuntu Touch Wallpapers
+ The default Ubuntu Touch wallpapers.
+Depends: ubports-wallpapers-2018-10
+
+Package: ubports-wallpapers-2018-10
+Architecture: all
+Description: Ubuntu Touch Wallpapers for OTA-5+
