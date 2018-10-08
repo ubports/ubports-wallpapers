@@ -44,8 +44,8 @@ All submissions must follow the [Ubuntu Code of Conduct 2.0](https://www.ubuntu.
 
 No. Unity8 and System-Settings copy the wallpaper into the user's home folder when it is set. When a wallpaper is removed from the image, it will be shown in the "Custom" section of the Background settings in Ubuntu Touch.
 
-## What the heck is warty-ubuntu-final.png?
+## What the heck is warty-final-ubuntu.png?
 
-In short, `warty-ubuntu-final.png` is a bit of a kludge until we have a better solution.
+In short, `warty-final-ubuntu.png` is a bit of a kludge until we have a better solution.
 
-Due to historical reasons, Ubuntu has included `warty-ubuntu-final.png` in every Ubuntu release since the first, 4.10 in 2004. This allows them to replace the default wallpaper in every release and have the people using that wallpaper see the new one when they upgrade. The Unity System Compositor, unity8, and System Settings all have a path to `warty-ubuntu-final.png` hard-coded into them as the default wallpaper for the system.
+Due to historical reasons, Ubuntu has included `warty-final-ubuntu.png` in every Ubuntu release since the first, 4.10 in 2004. This allows them to replace the default wallpaper in every release and have the people using that wallpaper see the new one when they upgrade. The Unity System Compositor, unity8, and System Settings all have a path to `warty-ubuntu-final.png` hard-coded into them as the default wallpaper for the system.
