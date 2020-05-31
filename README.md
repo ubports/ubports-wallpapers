@@ -42,7 +42,7 @@ All submissions must follow the [Ubuntu Code of Conduct 2.0](https://www.ubuntu.
 
 ## Will users who have set a wallpaper lose it if you remove it?
 
-No. Unity8 and System-Settings copy the wallpaper into the user's home folder when it is set. When a wallpaper is removed from the image, it will be shown in the "Custom" section of the Background settings in Ubuntu Touch.
+No. Lomiri and System-Settings copy the wallpaper into the user's home folder when it is set. When a wallpaper is removed from the image, it will be shown in the "Custom" section of the Background settings in Ubuntu Touch.
 
 ## What the heck is warty-final-ubuntu.png?
 
