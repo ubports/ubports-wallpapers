@@ -13,7 +13,9 @@ Section: metapackages
 Description: Ubuntu Touch Wallpapers
  The default Ubuntu Touch wallpapers.
 Depends: ubports-wallpapers-2018-10
+Multi-Arch: foreign
 
 Package: ubports-wallpapers-2018-10
 Architecture: all
 Description: Ubuntu Touch Wallpapers for OTA-5+
+Multi-Arch: foreign
