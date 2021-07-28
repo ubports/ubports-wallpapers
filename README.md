@@ -20,7 +20,7 @@ Yes! Go to Settings > Background, scroll down to Custom, and tap "Add an image..
 
 ## How can I submit more wallpapers?
 
-Email us at `contribute at ubports dot com` with your wallpaper submission or submit an issue on this repository. Please include the license which you are sharing the image under (including a link to the license text) in your e-mail. We will upload the image to [our Pending Wallpaper Submissions folder](https://nc.ubports.com/s/oiAHpNGMyryCbXe) along with your name or pseudonym. If you prefer to remain anonymous or pseudonymous, please state that in your submission.
+Submit an issue on this repository with your wallpaper submission. Please include the license which you are sharing the image under (including a link to the license text) in your e-mail. We will upload the image to [our Pending Wallpaper Submissions folder](https://nc.ubports.com/s/oiAHpNGMyryCbXe) along with your name or pseudonym. If you prefer to remain anonymous or pseudonymous, please state that in your submission.
 
 Once we have enough submissions and enough time has passed since the last wallpaper release (4-6 months), we'll make a poll for our community asking which wallpapers they would like to see included in the next update of Ubuntu Touch. Please note that while this poll will be public, the UBports contributors reserve the final say in whether a submission is included or not. We don't expect to use this reservation, but we want to be clear that we make it.
 
